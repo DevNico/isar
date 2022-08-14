@@ -2229,4 +2229,6 @@ const int IsarObject_NULL_INT = -2147483648;
 
 const int IsarObject_NULL_LONG = -9223372036854775808;
 
+const int IsarObject_MAX_SIZE = 33554432;
+
 const int SchemaManager_ISAR_VERSION = 2;
