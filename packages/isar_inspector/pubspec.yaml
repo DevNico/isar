@@ -14,7 +14,7 @@ dependencies:
   flutter_svg: any
   flutter_treeview: ^1.0.7+1
   font_awesome_flutter: any
-  go_router: ^4.1.0
+  go_router: ^6.0.0
   google_fonts: ^3.0.1
   isar: any
   vm_service: ^9.0.0
